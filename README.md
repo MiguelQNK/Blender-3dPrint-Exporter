@@ -6,5 +6,5 @@ You can find and edit the addon using:
 IDECA_3dPrint_Exporter.py
 
 <br>
-You can install the addond using:
+You can install the addon using:
 IDECA_3dPrint_Exporter.zip
